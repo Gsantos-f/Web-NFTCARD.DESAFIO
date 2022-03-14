@@ -11,8 +11,10 @@ PAGE: https://gsantos-f.github.io/Web-NFTCARD.DESAFIO/
  
 ## ◉ 🖼️IMAGES
 
-<img src="https://user-images.githubusercontent.com/101200460/158028992-7f4e6926-d081-4f4c-9bea-84435e15fc3a.png" alt="QRCODE">
-
+<div align="center">
+ <img src="https://user-images.githubusercontent.com/101200460/158247069-f4af82d8-b3cb-4db2-b128-d094bbcdaab3.gif" alt="NFTCARD">
+</div>
+ 
 # Frontend Mentor - QR code component solution
 
 [MY FRONTEND-MENTOR LINK](https://www.frontendmentor.io/profile/Gsantos-f)
