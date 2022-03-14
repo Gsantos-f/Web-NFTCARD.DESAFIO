@@ -105,6 +105,7 @@ main{
 footer{
     background-color: hsl(215, 32%, 27%);
     padding: 30px 0;
+    font-size: 16px;
 }
 .attribution{
     font-size: 16px;
