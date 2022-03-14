@@ -1,0 +1,18 @@
+@media (width:360px){
+    .caixa{
+        width: 250px;
+    }
+    .caixa figure{
+        height: 250px;
+    }
+    .eth{
+        width: 250px;
+    }
+    .avatar{
+        font-size: 15px;
+    }
+    footer{
+        font-size: 13px;
+        padding: 20px;
+    }
+}
